@@ -1,0 +1,45 @@
+*{
+    font-family: Montserrat;
+}
+
+header {
+    background-color: #d52e28;
+    color: #ffffff;
+    padding: 15px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+#div1{
+    float:left;
+    background: #21cd59;
+}
+#div2{
+    float:left;
+    background: #f5d826;
+}
+#div3{
+    float:left;
+    background: #d52e28;
+}
+#div4{
+    float:left;
+    background: #009bf1;
+}
+
+#subdiv1{
+    background-color: #ffffff;
+    color: #21cd59;
+}
+#subdiv2{
+    background-color: #ffffff;
+    color: #f5d826;
+}
+#subdiv3{
+    background-color: #ffffff;
+    color: #d52e28;
+}
+#subdiv4{
+    background-color: #ffffff;
+    color: #009bf1;
+}
